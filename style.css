@@ -869,7 +869,21 @@ color: var(--main-color);
         margin-top: 2%;
         margin-left: 0;
       } */
-    
+      .home{
+        width: auto;
+       }
+       .about{
+        width: auto;
+       }
+       .skills{
+        width: auto;
+       }
+       .contact{
+        width: auto;
+       }
+       .education{
+        width: auto;
+       }
       .home-sci {
         position: static;
         margin-top: 2rem;
@@ -1103,7 +1117,21 @@ color: var(--main-color);
     html {
        font-size: 50%;
     }
-
+    .home{
+      width: auto;
+     }
+     .about{
+      width: auto;
+     }
+     .skills{
+      width: auto;
+     }
+     .contact{
+      width: auto;
+     }
+     .education{
+      width: auto;
+     }
     .home-conent h1 {
       display: flex;
       flex-direction: column;
@@ -1126,6 +1154,21 @@ color: var(--main-color);
       .home-conent h1 {
           font-size: 5.2rem;
       }
+      .home{
+        width: auto;
+       }
+       .about{
+        width: auto;
+       }
+       .skills{
+        width: auto;
+       }
+       .contact{
+        width: auto;
+       }
+       .education{
+        width: auto;
+       }
       .skills {
         margin-top: -50px;
       }

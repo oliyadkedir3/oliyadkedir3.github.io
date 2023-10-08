@@ -1167,7 +1167,21 @@ color: var(--main-color);
     justify-content: center;
     align-items: center;
  }
-
+ .home{
+  width: auto;
+ }
+ .about{
+  width: auto;
+ }
+ .skills{
+  width: auto;
+ }
+ .contact{
+  width: auto;
+ }
+ .education{
+  width: auto;
+ }
   * {
     align-items: center;
   }

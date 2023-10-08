@@ -1115,6 +1115,12 @@ color: var(--main-color);
       width: 38px;
       height: 38px;
     }
+    .skills {
+      margin-top: -50px;
+    }
+     .skills-box .skills-content {
+      width: 150px;
+     }
   }
     @media (max-width:462px) {
       .home-conent h1 {
@@ -1124,7 +1130,7 @@ color: var(--main-color);
         margin-top: -50px;
       }
        .skills-box .skills-content {
-        width: 200px;
+        width: 150px;
        }
       
         .about {

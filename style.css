@@ -855,7 +855,7 @@ color: var(--main-color);
       .btn-box {
         flex-wrap: wrap;
         width: 100%;
-    height: auto;
+        height: auto;
       }
     
       .btn-box .btn {
@@ -882,6 +882,9 @@ color: var(--main-color);
         width: auto;
        }
        .education{
+        width: auto;
+       }
+       .footer{
         width: auto;
        }
       .home-sci {
@@ -968,7 +971,7 @@ color: var(--main-color);
         margin-left: 50px;
         width: 100%;
       }
-      }
+    }
       
       .btn:nth-child(2):hover
       .navbar a {
@@ -1132,6 +1135,9 @@ color: var(--main-color);
      .education{
       width: auto;
      }
+     .footer{
+      width: auto;
+     }
     .home-conent h1 {
       display: flex;
       flex-direction: column;
@@ -1144,7 +1150,7 @@ color: var(--main-color);
       height: 38px;
     }
     .skills {
-      margin-top: -50px;
+      margin-top: -150px;
     }
      .skills-box .skills-content {
       width: 150px;
@@ -1169,9 +1175,10 @@ color: var(--main-color);
        .education{
         width: auto;
        }
-      .skills {
-        margin-top: -50px;
-      }
+       .footer{
+        width: auto;
+       }
+
        .skills-box .skills-content {
         width: 150px;
        }
@@ -1187,7 +1194,7 @@ color: var(--main-color);
           padding-bottom: 6rem;
         }
         .skills {
-          margin-top: -500px;
+          margin-top: -150px;
         }
       .education {
         padding: 10rem 4% 5rem 5%;
@@ -1223,6 +1230,9 @@ color: var(--main-color);
   width: auto;
  }
  .education{
+  width: auto;
+ }
+ .footer{
   width: auto;
  }
   * {

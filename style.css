@@ -683,6 +683,16 @@ color: var(--main-color);
 
   /* BREAKPOINTS */
   @media(max-width:1350px){
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      text-decoration: none;
+      border: none;
+      outline: none;
+      scroll-behavior: smooth;
+      font-family: 'Poppins', sans-serif;
+      }
     .about-img .circle-spin {
       position: absolute;
       top: 160%;
@@ -705,6 +715,16 @@ color: var(--main-color);
     html {
       font-size: 75%;
     }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      text-decoration: none;
+      border: none;
+      outline: none;
+      scroll-behavior: smooth;
+      font-family: 'Poppins', sans-serif;
+      }
     .about-img .circle-spin {
       position: absolute;
       top: 188%;
@@ -724,6 +744,16 @@ color: var(--main-color);
       }
   }
   @media (max-width:991px) {
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      text-decoration: none;
+      border: none;
+      outline: none;
+      scroll-behavior: smooth;
+      font-family: 'Poppins', sans-serif;
+      }
     .header {
       padding: 2rem 4%;
     }
@@ -735,7 +765,16 @@ color: var(--main-color);
     }
   }
   @media (max-width:768px) {
-   
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      text-decoration: none;
+      border: none;
+      outline: none;
+      scroll-behavior: smooth;
+      font-family: 'Poppins', sans-serif;
+      }
       .header {
          background: var(--bg-color);
       }
@@ -1064,6 +1103,16 @@ color: var(--main-color);
     html {
        font-size: 50%;
     }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      text-decoration: none;
+      border: none;
+      outline: none;
+      scroll-behavior: smooth;
+      font-family: 'Poppins', sans-serif;
+      }
     .home-conent h1 {
       display: flex;
       flex-direction: column;
@@ -1080,6 +1129,17 @@ color: var(--main-color);
       .home-conent h1 {
           font-size: 5.2rem;
       }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+        border: none;
+        outline: none;
+        scroll-behavior: smooth;
+        font-family: 'Poppins', sans-serif;
+        }
 
       .about-img .circle-spin {
         position: absolute;
